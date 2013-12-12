@@ -253,6 +253,11 @@ form {
   padding: 20px;
 }
 
+abbr{
+  border-bottom:1px dotted;
+  cursor: help;
+}
+
 /*******************************************************************************
 Full-Width Styles
 *******************************************************************************/
@@ -268,7 +273,7 @@ Full-Width Styles
   margin: 0 auto;
 }
 
-#email_banner {
+#contact_banner {
   display: block;
   position: absolute;
   top:0;

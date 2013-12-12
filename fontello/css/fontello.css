@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'fontello';
-  src: url('../font/fontello.eot?55880927');
-  src: url('../font/fontello.eot?55880927#iefix') format('embedded-opentype'),
-       url('../font/fontello.woff?55880927') format('woff'),
-       url('../font/fontello.ttf?55880927') format('truetype'),
-       url('../font/fontello.svg?55880927#fontello') format('svg');
+  src: url('../font/fontello.eot?9430344');
+  src: url('../font/fontello.eot?9430344#iefix') format('embedded-opentype'),
+       url('../font/fontello.woff?9430344') format('woff'),
+       url('../font/fontello.ttf?9430344') format('truetype'),
+       url('../font/fontello.svg?9430344#fontello') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,7 +14,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'fontello';
-    src: url('../font/fontello.svg?55880927#fontello') format('svg');
+    src: url('../font/fontello.svg?9430344#fontello') format('svg');
   }
 }
 */
@@ -50,7 +50,7 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.icon-email:before { content: '\90f5'; } /* '郵' */
+.icon-contact:before { content: '\90f5'; } /* '郵' */
 .icon-book:before { content: '\6703'; } /* '會' */
 .icon-paper:before { content: '\8ad6'; } /* '論' */
 .icon-cog:before { content: '\696d'; } /* '業' */

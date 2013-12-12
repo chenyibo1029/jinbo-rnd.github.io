@@ -1,5 +1,5 @@
 
-.icon-email { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x90f5;&nbsp;'); }
+.icon-contact { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x90f5;&nbsp;'); }
 .icon-book { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x6703;&nbsp;'); }
 .icon-paper { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x8ad6;&nbsp;'); }
 .icon-cog { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x696d;&nbsp;'); }
